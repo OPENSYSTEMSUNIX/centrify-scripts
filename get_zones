@@ -1,0 +1,5 @@
+#!/bin/env adedit
+package require ade_lib
+bind harlandclarke.local a058384-aa@harlandclarke.local qwer1234QWER!@#$
+list_zones harlandclarke.local
+quit
